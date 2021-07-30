@@ -8,3 +8,10 @@ python3.9 -m venv venv
 . venv/bin/activate
 python manage.py runserver
 ```
+---
+
+AUTHOR
+
+---
+
+S A N J E E V - D I R W A L
